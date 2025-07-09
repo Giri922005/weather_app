@@ -1,4 +1,3 @@
-# weather_app
 # Weather App Using API
 
 ## 📚 Overview
